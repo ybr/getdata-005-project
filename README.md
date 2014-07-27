@@ -11,7 +11,7 @@ The exercice contains many files, some are more interesting than others:
 - test/y_test.txt
 - test/subject_test.txt
 
-features_info.txt explains a bit the relation that might exists between files.
+features_info.txt explains a bit the relation that might exist between files.
 
 # 561 vector
 
