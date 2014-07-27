@@ -1,6 +1,6 @@
 # General
 
-The exercices contains many files, some are more interesting than others:
+The exercice contains many files, some are more interesting than others:
 - features_info.txt
 - features.txt
 - activity_labels.txt
