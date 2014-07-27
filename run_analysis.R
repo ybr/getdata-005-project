@@ -32,3 +32,5 @@ colnames(tidy_data) <- c("Subject", "Activity", sapply(desired_features$V2, (fun
 
 # Part 1
 write.csv(tidy_data, file = "tidy.csv")
+
+tidy_data
