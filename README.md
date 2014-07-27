@@ -30,6 +30,7 @@ wc -w train/X_train.txt
 4124472
 ```
 1653267 / 561 = 2947
+
 4124472 / 561 = 7352
 
 So we have an entire set of 10299 measures.
