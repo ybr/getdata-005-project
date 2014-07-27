@@ -21,7 +21,7 @@ wc -l features.txt
 561
 ```
 
-It appears also that X_train.txt and X_test.txt contains a count of measures which is a multiple of 561:
+It appears also that train/X_train.txt and test/X_test.txt contains a count of measures which is a multiple of 561:
 ```bash
 wc -w test/X_test.txt
 1653267
